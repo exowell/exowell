@@ -1,0 +1,19 @@
+body {
+    max-width: 800px;
+    margin: auto;
+}
+
+.jumbotron {
+    background-color: #edf6ff;
+}
+
+#logo {
+    width: 90%;
+    max-width: 300px;
+    vertical-align: bottom;
+}
+
+#ptitle {
+    border-bottom: 1px solid #40545b;
+    font-family: 'Allerta Stencil', sans-serif;
+}
